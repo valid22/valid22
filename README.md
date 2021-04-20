@@ -2,6 +2,8 @@
 
 ![I, Header](https://github.com/valid22/valid22/raw/main/i.png)
 
+![valid22#5824](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![](https://img.shields.io/badge/-valid22%235824-blue)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=valid22.visitor-badge)
 
 ![Dote's github stats](https://github-readme-stats.vercel.app/api?username=valid22&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true]) 
