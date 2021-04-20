@@ -25,4 +25,4 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sayonara!&fontAlign=70&fontAlignY=40&color=gradient&section=footer)
