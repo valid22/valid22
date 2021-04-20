@@ -1,12 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)
+
 ![I, Header](https://github.com/valid22/valid22/raw/main/i.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=valid22.visitor-badge)
 
-![Dote's github stats](https://github-readme-stats.vercel.app/api?username=valid22&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true])
-
-<sub><sup>don't judge me</sup></sub>
+![Dote's github stats](https://github-readme-stats.vercel.app/api?username=valid22&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true]) 
 
 ![jk](https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=0)
+
+---
+<sub><sup>don't judge me</sup></sub>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valid22&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -20,6 +25,4 @@
 
 </div>
 
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valid22&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient&section=footer)
