@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=70&fontAlignY=40&color=gradient)
 
 ![I, Header](https://github.com/valid22/valid22/raw/main/i.png)
 
@@ -27,4 +27,4 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Arigatho!&fontAlign=80&fontAlignY=70&color=gradient&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=70&color=gradient&section=footer)
