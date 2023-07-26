@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=70&fontAlignY=40&color=gradient)
-
 ![I, Header](https://github.com/valid22/valid22/raw/main/i.png)
 
 ![valid22#5824](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![](https://img.shields.io/badge/-valid22%235824-blue)
