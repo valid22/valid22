@@ -68,12 +68,12 @@ Currently pursuing an **M.S. in Business Analytics at UCSD**, with a focus on Ma
 
 | ID | Project | Type |
 |----|---------|------|
-| P-001 | **LungeScape AI** — 4-agent medical imaging system · Hackathon Finalist | `HACKATHON` |
-| P-002 | **AI-IaSS** — Agentic infra optimization, 20–30% cost reduction · Hackathon Winner | `HACKATHON` |
-| P-003 | **Cache-Aware Routing** — 12.6× latency improvement for distributed ML inference | `RESEARCH` |
-| P-004 | **RiboSense** — 150% throughput increase on 64-core TPU, 0.98 AUC-ROC | `RESEARCH` |
-| P-005 | **Skill Rating System** — Elo/Glicko-2 with A/B experimentation on 10K+ matches | `PROJECT` |
-| P-006 | **VALORANT Player Intelligence** — Segmentation & outcome modeling | `PROJECT` |
+| P-001 | **[AI-IaSS](https://masda.itsdote.tech/)** — Agentic infra optimization, 20–30% cost reduction · Hackathon Winner &nbsp;[\[GitHub\]](https://github.com/valid22/SDx-v0) | `HACKATHON` |
+| P-002 | **[Cache-Aware Routing](https://github.com/valid22/cache-routing)** — 12.6× latency improvement for distributed ML inference | `RESEARCH` |
+| P-003 | **[RiboSense](https://apalanialab.github.io/RiboSense/)** — 150% throughput increase on 64-core TPU, 0.98 AUC-ROC &nbsp;[\[GitHub\]](https://github.com/APalaniaLab/RiboSense) | `RESEARCH` |
+| P-004 | **[Skill Rating System](https://github.com/valid22/project-skill)** — Elo/Glicko-2 with A/B experimentation on 10K+ matches | `PROJECT` |
+| P-005 | **[VALORANT Player Intelligence](https://github.com/valid22/valo-player-intel)** — Segmentation & outcome modeling | `PROJECT` |
+| P-006 | **LungeScape AI** — 4-agent medical imaging system · Hackathon Finalist | `HACKATHON` |
 
 ---
 
