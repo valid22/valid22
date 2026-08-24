@@ -6,7 +6,7 @@
 
 # VIGNESHWARAN SIVA SANKARAN
 
-### `CODENAME: DOTE` &nbsp;·&nbsp; `DS & ML ENGINEER` &nbsp;·&nbsp; `LA JOLLA, CA`
+### `CODENAME: DOTE` &nbsp;·&nbsp; `DS & ML ENGINEER` &nbsp;·&nbsp; `CA`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=2000&color=FF4655&center=true&vCenter=true&width=500&lines=ML+Engineer;Data+Scientist;AI+Engineer;Research+Engineer;Data+Engineer)](https://git.io/typing-svg)
 
